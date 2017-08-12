@@ -1,2 +1,2 @@
-# my-first
-my first repo
+# this is my readme file
+Hello Cloud Gurus
